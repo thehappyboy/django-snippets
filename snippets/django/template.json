@@ -35,7 +35,7 @@
         "prefix": "register_filter",
         "body": [
             "@register.filter",
-            "def $1(value):"
+            "def $1(value):",
             "   return value$2"
         ]
     }
