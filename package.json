@@ -1,0 +1,34 @@
+{
+  "contributes": {
+        {
+            "language": "django",
+            "path": "./snippets/django/admin.json"
+        },
+        {
+            "language": "django",
+            "path": "./snippets/django/forms.json"
+        },
+                {
+            "language": "django",
+            "path": "./snippets/django/models.json"
+        },
+        {
+            "language": "django",
+            "path": "./snippets/django/urls.json"
+        },
+        {
+            "language": "django",
+            "path": "./snippets/django/template.json"
+        },
+        {
+            "language": "django",
+            "path": "./snippets/django/views.json"
+        },
+        {
+            "language": "htmldjango",
+            "path": "./snippets/htmldjango.json"
+        }
+
+    ]
+  }
+}
